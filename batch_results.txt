@@ -1,0 +1,12 @@
+// Jonathan Ross and file was automatically created from .cpp file
+
+Time 1: Error Protection Violation: Cannot write to read-only page
+Time 2: Address (0,1) -> Physical 100
+Time 3: Address (0,2) -> Physical 1050
+Time 4: Error Protection Violation: Cannot write to read-only segment
+Time 5: Address (1,0) -> Physical 92000
+Time 6: Error Page Fault: Page 99 exceeds limit 10
+Time 7: Error Offset Fault: Offset 1050 exceeds page size
+Time 8: Error Protection Violation: Cannot write to read-only page
+Time 9: Address (2,5) -> Physical 42000
+Fault Rate: 55.5556%
